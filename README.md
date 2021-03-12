@@ -11,5 +11,5 @@
 (4) Weather Forecasting </br>
 -> For this project Prophet library was used. Prophet is an open-source library developed by Facebook. It allows seamless training and prediction of time series data, and can be implemented in both Python and R. </br>
 -> Link to the Prophet Library (https://facebook.github.io/prophet/). </br>
--> Although the models were built successfully for each factor, it is not feasible since multiple models were used to capture the trend and make indiviual prediction. This cannot be feasible if similar models are deplpoyed into productions. </br>
+-> Although the models were built successfully for each factor, it is not feasible since multiple models were used to capture the trend and make indiviual prediction. This cannot be feasible if similar models are deployed into production. </br>
 -> The dataset used is from a private source.
